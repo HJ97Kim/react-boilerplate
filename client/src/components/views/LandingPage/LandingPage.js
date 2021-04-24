@@ -1,9 +1,10 @@
 import React from 'react'
 
 function LandingPage() {
+
   return (
     <div>
-      LandingPage
+      LandingPage 렌딩페이지
     </div>
   )
 }
